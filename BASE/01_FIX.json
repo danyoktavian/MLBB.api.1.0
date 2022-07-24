@@ -1,1 +1,693 @@
 
+[
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/alu.jpg",
+    "NAMA": "Alucard ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/alu29.jpg",
+    "NAMA": "Alucard ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/alua.jpg",
+    "NAMA": "Alucard ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/alucard.jpg",
+    "NAMA": "Alucard ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/alull.jpg",
+    "NAMA": "Alucard ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/alunobi.jpg",
+    "NAMA": "Alucard ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/alulade.jpg",
+    "NAMA": "Alucard ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/alunt.jpg",
+    "NAMA": "Alucard ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/alutasy.jpg",
+    "NAMA": "Alucard ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/alutriker.jpg",
+    "NAMA": "Alucard ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/amon.jpg",
+    "NAMA": "Aamon ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/benade.jpg",
+    "NAMA": "Benedetta ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/benlow.jpg",
+    "NAMA": "Benedetta ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/bennger.jpg",
+    "NAMA": "Benedetta ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/benth.jpg",
+    "NAMA": "Benedetta ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/fan9.jpg",
+    "NAMA": "Fanny ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/fananny9.jpg",
+    "NAMA": "Fanny ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/fanbou.jpg",
+    "NAMA": "Fanny ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/faner.jpg",
+    "NAMA": "Fanny ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/fanger.jpg",
+    "NAMA": "Fanny ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/fank).jpg",
+    "NAMA": "Fanny ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/fanlry.jpg",
+    "NAMA": "Fanny ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/fannny9.jpg",
+    "NAMA": "Fanny ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/fanylark.jpg",
+    "NAMA": "Fanny ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/gus27.jpg",
+    "NAMA": "Gusion ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/gusade.jpg",
+    "NAMA": "Gusion ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/gusaison.jpg",
+    "NAMA": "Gusion ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/gusam.jpg",
+    "NAMA": "Gusion ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/gusaison.jpg",
+    "NAMA": "Gusion ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/guslist.jpg",
+    "NAMA": "Gusion ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/gusnata.jpg",
+    "NAMA": "Gusion ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/guspion.jpg",
+    "NAMA": "Gusion ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/gusps.jpg",
+    "NAMA": "Gusion ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/guswl.jpg",
+    "NAMA": "Gusion ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/haninja.jpg",
+    "NAMA": "Hanzo ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hanng.jpg",
+    "NAMA": "Hanzo ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hantom.jpg",
+    "NAMA": "Hanzo ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hantor.jpg",
+    "NAMA": "Hanzo ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/har29.jpg",
+    "NAMA": "Harley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hare.jpg",
+    "NAMA": "Harley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/harer.jpg",
+    "NAMA": "Harley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/harnius.jpg",
+    "NAMA": "Harley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/harntor.jpg",
+    "NAMA": "Harley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/harpus.jpg",
+    "NAMA": "Harley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/harster.jpg",
+    "NAMA": "Harley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hay21.jpg",
+    "NAMA": "Hayabusa ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hay29.jpg",
+    "NAMA": "Hayabusa ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hayon.jpg",
+    "NAMA": "Hayabusa ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hayow.jpg",
+    "NAMA": "Hayabusa ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hayrcer.jpg",
+    "NAMA": "Hayabusa ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hayster.jpg",
+    "NAMA": "Hayabusa ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hayura.jpg",
+    "NAMA": "Hayabusa ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/hayurity.jpg",
+    "NAMA": "Hayabusa ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/helator.jpg",
+    "NAMA": "Helcurt ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/helger.jpg",
+    "NAMA": "Helcurt ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/helhe.jpg",
+    "NAMA": "Helcurt ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/helio.jpg",
+    "NAMA": "Helcurt ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/helter.jpg",
+    "NAMA": "Helcurt ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/kadbin.jpg",
+    "NAMA": "Kadita ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/kadcess.jpg",
+    "NAMA": "Kadita ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/kades.jpg",
+    "NAMA": "Kadita ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/kadoddess.jpg",
+    "NAMA": "Kadita ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/kar29.jpg",
+    "NAMA": "Karina ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/karalo.jpg",
+    "NAMA": "Karina ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/kararl.jpg",
+    "NAMA": "Karina ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/karge.jpg",
+    "NAMA": "Karina ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/kari29.jpg",
+    "NAMA": "Karina ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/karna.jpg",
+    "NAMA": "Karina ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/karon.jpg",
+    "NAMA": "Karina ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/karr.jpg",
+    "NAMA": "Karina ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/karr9.jpg",
+    "NAMA": "Karina ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/kary.jpg",
+    "NAMA": "Karina ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lan29.jpg",
+    "NAMA": "Lancelot ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lan9.jpg",
+    "NAMA": "Lancelot ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lan91.jpg",
+    "NAMA": "Lancelot ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lanes.jpg",
+    "NAMA": "Lancelot ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lanight.jpg",
+    "NAMA": "Lancelot ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lanht.jpg",
+    "NAMA": "Lancelot ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lanrts.jpg",
+    "NAMA": "Lancelot ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lanses.jpg",
+    "NAMA": "Lancelot ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lanster.jpg",
+    "NAMA": "Lancelot ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lesdy.jpg",
+    "NAMA": "Lesley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lesent.jpg",
+    "NAMA": "Lesley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/leser.jpg",
+    "NAMA": "Lesley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/leshost.jpg",
+    "NAMA": "Lesley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lesnner.jpg",
+    "NAMA": "Lesley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lesosa.jpg",
+    "NAMA": "Lesley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lesteer.jpg",
+    "NAMA": "Lesley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lestress.jpg",
+    "NAMA": "Lesley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lesve.jpg",
+    "NAMA": "Lesley ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lingade.jpg",
+    "NAMA": "Ling ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lingce.jpg",
+    "NAMA": "Ling ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lingch.jpg",
+    "NAMA": "Ling ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lingrd.jpg",
+    "NAMA": "Ling ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lingume.jpg",
+    "NAMA": "Ling ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/lingunk.jpg",
+    "NAMA": "Ling ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/mate.jpg",
+    "NAMA": "Mathilda ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/matelight.jpg",
+    "NAMA": "Mathilda ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/maten.jpg",
+    "NAMA": "Mathilda ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/nat9.jpg",
+    "NAMA": "Natalia ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/nat91.jpg",
+    "NAMA": "Natalia ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/nata.jpg",
+    "NAMA": "Natalia ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/natgler.jpg",
+    "NAMA": "Natalia ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/natre.jpg",
+    "NAMA": "Natalia ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/natta9.jpg",
+    "NAMA": "Natalia ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/natven.jpg",
+    "NAMA": "Natalia ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/sab29.jpg",
+    "NAMA": "Saber ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/saba.jpg",
+    "NAMA": "Saber ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/sabaru.jpg",
+    "NAMA": "Saber ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/sabge.jpg",
+    "NAMA": "Saber ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/sabnin.jpg",
+    "NAMA": "Saber ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/sabord.jpg",
+    "NAMA": "Saber ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/sabork29.jpg",
+    "NAMA": "Saber ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/sabtor.jpg",
+    "NAMA": "Saber ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/selash.jpg",
+    "NAMA": "Selena ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/selce.jpg",
+    "NAMA": "Selena ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/seleen.jpg",
+    "NAMA": "Selena ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/selena.jpg",
+    "NAMA": "Selena ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/selentity.jpg",
+    "NAMA": "Selena ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/selhadow.jpg",
+    "NAMA": "Selena ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/selitch.jpg",
+    "NAMA": "Selena ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/selurse.jpg",
+    "NAMA": "Selena ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/selus.jpg",
+    "NAMA": "Selena ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/yi9.jpg",
+    "NAMA": "Yi_Sun-shin ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/yictor.jpg",
+    "NAMA": "Yi_Sun-shin ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/yiger.jpg",
+    "NAMA": "Yi_Sun-shin ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/yind.jpg",
+    "NAMA": "Yi_Sun-shin ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/yint.jpg",
+    "NAMA": "Yi_Sun-shin ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/yintry.jpg",
+    "NAMA": "Yi_Sun-shin ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/zil.jpg",
+    "NAMA": "Zilong ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/zil9.jpg",
+    "NAMA": "Zilong ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/ziler.jpg",
+    "NAMA": "Zilong ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/zill29.jpg",
+    "NAMA": "Zilong ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/zilnder.jpg",
+    "NAMA": "Zilong ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/zilon.jpg",
+    "NAMA": "Zilong ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/zilrior.jpg",
+    "NAMA": "Zilong ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/zilves.jpg",
+    "NAMA": "Zilong ASSASIN",
+    "URL": ""
+  },
+  {
+    "IMG": "https://raw.githubusercontent.com/adefirmansyah18/MLBB.api.1.0/main/IMG_ASSASIN/BASE/zilin.jpg",
+    "NAMA": "Zilong ASSASIN",
+    "URL": ""
+  }
+]
